@@ -1,4 +1,4 @@
-## Rochester Institue of Technology API Re-creation
+## Rochester Institue of Technology API Re-Creation
 This rendition was created as a part of a project from ISTE-340 in Rochester Institute of Technology.
 This site consumes data from RIT's API server and parses them using javascript in conjuction with bootstrap framework
 
